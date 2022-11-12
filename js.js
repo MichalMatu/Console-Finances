@@ -2,6 +2,7 @@
 // *** MICHAEL'S SOLUTION ***
 // **************************
 
+
 // declaring variable
 let total = 0;
 let average_change = 0;
